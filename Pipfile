@@ -9,6 +9,7 @@ numpy = "*"
 pandas = "*"
 flask = "*"
 scikit-learn = "*"
+ipython = "*"
 
 [dev-packages]
 
